@@ -1,0 +1,31 @@
+Vamos usar MySql no backend.
+
+- java roda em qualquer lugar, basta ter um virtualizacao de java.
+- portabilidade.
+- Linguagem orientada a objetos.
+
+java/maven jdk17
+
+- o que é uma variável? um endereço de alocação na memória que eu vou utilizar.
+- metodos, funcionalidade de um objeto.
+- atributos = caractetisticas de um objeto.
+
+primitiva.
+int
+double
+float
+char
+boolean
+byte
+long 
+short
+
+repeticao.
+
+for / foreach
+while
+do while
+
+1. uma calculadora que tenha 4 metodos.
+recber dois valores 
+retornar o resultado no main 
